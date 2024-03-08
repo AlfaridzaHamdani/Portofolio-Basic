@@ -1,2 +1,2 @@
 # Portofolio-Basic
-Tech :
+Basic HTML & CSS
